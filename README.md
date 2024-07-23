@@ -24,8 +24,6 @@ For Code , Request access [here](https://drive.google.com/drive/folders/1tUQ_NAC
 ## Simulation Results
 The project includes detailed simulation results showing the effectiveness of the LKF and EKF in handling real-time disturbances and measurement noise. It provides insights into the trade-offs between different filter designs and their impact on system performance.
 
-## Contributing
-Contributions to enhance the project are welcome. Please fork the repository and submit a pull request with your suggested changes.
 
 ## Authors
 - Sameer Swain
